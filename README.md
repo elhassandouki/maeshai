@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm El Ghandori Chaimaa, and I am currently Software Engineer student at ALX SE Programme, I've worked in a variety of areas and completed internships and training programs, which have given me the skills and experience I need to succeed in the workplace. I have a strong commitment to my work and am among the best. am a quick learner and am constantly looking for new chances to increase my field knowledge and expertise. I am constantly looking for methods to increase my knowledge and skill set.</h1>
+<h1 align="center">Hi 👋, I'm I'm El Ghandori Chaimaa
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maeshai&label=Profile%20views&color=0e75b6&style=flat" alt="maeshai" /> </p>
