@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm El Ghandori Chaimaa</h1>
-<h3 align="center">Software Engineer Student at ALX SE Programme</h3>
+<h1 align="center">
+<h3 align="center">Hi 👋, I'm El Ghandori Chaimaa</h1> Software Engineer Student at ALX SE Programme</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maeshai&label=Profile%20views&color=0e75b6&style=flat" alt="maeshai" /> </p>
 
